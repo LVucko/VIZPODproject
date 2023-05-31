@@ -1,0 +1,1321 @@
+date,category,name,change,percentage
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2400,0.0,0.0022
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2600,-0.0002,0.0027
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3430,0.0,0.0001
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3470,0.0006,0.0038
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850,0.0,0.0
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3870,0.0,0.0
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 2100,0.0,0.0001
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 3100,0.0,0.0003
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2350,0.0001,0.0005
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2400,-0.0004,0.0035
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2600,-0.0002,0.0037
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2900,-0.0001,0.0011
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3200,0.0003,0.0014
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3300,-0.0001,0.0
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3450,0.0003,0.0015
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3470,0.0,0.0
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3600,0.0001,0.0022
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3650,0.0001,0.0001
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3850,0.0003,0.0022
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3870,-0.0002,0.0052
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4550,0.0,0.0
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4650,0.0,0.0
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4670,0.0001,0.0003
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4800 Series,0.0021,0.0159
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel Bearlake B Express,0.0005,0.0019
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8100,0.0,0.0
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200,0.0001,0.0003
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200M,0.0002,0.0007
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8300,-0.0001,0.0011
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400,-0.0002,0.0062
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400M,0.0003,0.0099
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8500,0.0002,0.009
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600,-0.0017,0.0224
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600M,0.0005,0.0167
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8700M,0.0001,0.0013
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800,-0.0005,0.053
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800M,0.0001,0.0016
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100M,0.0001,0.0001
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200M,0.0001,0.0005
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300,0.0001,0.0001
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300M,0.0002,0.0013
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400,0.0003,0.0011
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400M,0.0001,0.0001
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500,0.0005,0.0029
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500M,0.0003,0.0025
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600,0.0009,0.0088
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600M,0.0011,0.0042
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9650M,0.0001,0.0002
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9700M,0.0004,0.0008
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800,0.0023,0.0121
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800M,0.0004,0.0009
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260,0.0012,0.0041
+2008-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280,0.0007,0.0038
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2400,0.0002,0.0028
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2600,-0.0001,0.0027
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3430,0.0002,0.0003
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3470,0.0005,0.0053
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850,0.0,0.0
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3870,0.0,0.0001
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4300,0.0,0.0
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4650,0.0,0.0
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 2100,0.0,0.0003
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 3100,-0.0001,0.0005
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2350,0.0,0.0004
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2400,0.0006,0.0043
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2600,0.0005,0.004
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2900,0.0002,0.0012
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3200,0.0001,0.0021
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3300,0.0,0.0
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3450,0.0005,0.0024
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3470,0.0,0.0
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3600,0.0009,0.0034
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3650,0.0001,0.0001
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3850,0.0002,0.0024
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3870,0.0002,0.0056
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4550,0.0,0.0
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4650,0.0,0.0001
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4670,0.0004,0.0009
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4800 Series,0.0047,0.0228
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel Bearlake B Express,0.0001,0.0019
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8100,0.0,0.0
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200,0.0002,0.0005
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200M,0.0001,0.0012
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8300,-0.0001,0.001
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400,0.0001,0.0067
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400M,0.0003,0.0103
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8500,0.0005,0.0093
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600,0.0021,0.0248
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600M,0.0006,0.0165
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8700M,-0.0002,0.0013
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800,0.0036,0.0559
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800M,-0.0001,0.0015
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100,0.0,0.0
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100M,0.0,0.0001
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200,0.0,0.0
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200M,0.0002,0.0013
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300,0.0,0.0001
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300M,0.0005,0.0023
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400,0.0007,0.0026
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400M,0.0,0.0001
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500,0.0015,0.0056
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500M,0.0001,0.0024
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600,0.002,0.0118
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600M,0.0012,0.0063
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9650M,0.0002,0.0006
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9700M,0.0002,0.001
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800,0.0033,0.0171
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800M,0.0,0.0011
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G100,0.0,0.0
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120,0.0001,0.0001
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130,0.0,0.0
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260,0.0016,0.007
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280,0.0006,0.005
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 285,0.0002,0.0002
+2009-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 295,0.0003,0.0003
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2400,0.0,0.0026
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2600,0.0002,0.0029
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3430,0.0002,0.0005
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3470,0.0002,0.0059
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3870,0.0,0.0002
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 2100,0.0002,0.0005
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 3100,0.0001,0.0006
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2350,0.0001,0.0005
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2400,0.0003,0.0039
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2600,0.0001,0.0036
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2900,-0.0003,0.0008
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3200,-0.0002,0.0022
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3300,-0.0001,0.0
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3450,0.0011,0.0032
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3600,0.0006,0.0036
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3650,-0.0001,0.0
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3850,0.0001,0.0026
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3870,0.0007,0.0058
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4550,0.0001,0.0001
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4650,0.0002,0.0004
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4670,0.0,0.001
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4800 Series,0.0036,0.0267
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel Bearlake B Express,0.0002,0.0021
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8100,0.0,0.0
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200,0.0,0.0004
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200M,0.0,0.0014
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8300,0.0001,0.0011
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400,0.0016,0.0073
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400M,0.0002,0.01
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8500,0.0024,0.0107
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600,0.0031,0.025
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600M,0.0013,0.0169
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8700M,0.0002,0.0015
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800,0.0055,0.0579
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800M,0.0003,0.0018
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100,0.0,0.0
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100M,0.0001,0.0002
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200,0.0,0.0
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200M,0.0001,0.0015
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300,0.0,0.0002
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300M,0.0004,0.0026
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400,0.0011,0.0036
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400M,-0.0001,0.0001
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500,0.0023,0.0076
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500M,0.0001,0.0024
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600,0.0013,0.0128
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600M,0.0001,0.007
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9650M,0.0001,0.0007
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9700M,0.0001,0.001
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800,0.0035,0.0207
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800M,0.0005,0.0018
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G100,0.0,0.0
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120,0.0001,0.0002
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130,0.0001,0.0001
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260,0.0011,0.0082
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280,0.0009,0.0062
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 285,0.0003,0.0005
+2009-02-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 295,0.0002,0.0005
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2400,0.0,0.0026
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2600,-0.0002,0.0026
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3430,-0.0001,0.0003
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3470,0.0002,0.0064
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850,0.0,0.0
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3870,-0.0001,0.0001
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4650,0.0,0.0
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4850,0.0,0.0
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4870,0.0,0.0
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 2100,0.0,0.0004
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 3100,0.0,0.0007
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2350,-0.0001,0.0003
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2400,0.0,0.0035
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2600,0.0006,0.0037
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2900,0.0001,0.001
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3200,0.0008,0.0033
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3300,0.0,0.0001
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3450,0.0001,0.0026
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3470,0.0,0.0
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3600,0.0002,0.0032
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3650,0.0001,0.0001
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3850,0.0,0.0025
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3870,0.0003,0.0056
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4550,0.0,0.0001
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4650,0.0,0.0005
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4670,0.0002,0.0014
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4800 Series,0.0028,0.028
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel Bearlake B Express,0.0,0.0021
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8100,0.0,0.0
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200,0.0002,0.0006
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200M,0.0002,0.0017
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8300,0.0,0.001
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400,0.0,0.0062
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400M,0.0006,0.01
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8500,0.0012,0.0099
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600,0.0015,0.0225
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600M,0.0016,0.0172
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8700M,0.0002,0.0017
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800,0.0021,0.0543
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800M,0.0002,0.0019
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100,0.0,0.0001
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100M,0.0,0.0002
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200M,-0.0001,0.0015
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300,0.0,0.0002
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300M,0.0002,0.0028
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400,0.0004,0.0034
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400M,0.0001,0.0002
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500,0.001,0.0072
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500M,0.0001,0.0023
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600,0.0014,0.0136
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600M,0.0011,0.0084
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9650M,0.0002,0.001
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9700M,0.0002,0.0011
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800,0.0032,0.0221
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800M,0.0001,0.002
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G100,0.0001,0.0002
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120,0.0002,0.0004
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130,0.0001,0.0001
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260,0.0008,0.0085
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280,0.0005,0.0065
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 285,0.0006,0.0016
+2009-03-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 295,0.0003,0.0011
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2400,0.0,0.0025
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2600,-0.0001,0.0024
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3430,0.0001,0.0004
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3470,0.0005,0.0069
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850,0.0,0.0
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3870,0.0001,0.0003
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4300,0.0,0.0
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4650,0.0001,0.0001
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4670,0.0,0.0
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4850,0.0001,0.0001
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4870,0.0,0.0
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 2100,0.0002,0.0005
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 3100,0.0001,0.0008
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2350,0.0,0.0003
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2400,0.0002,0.0034
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2600,-0.0004,0.0031
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2900,-0.0002,0.0007
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3200,0.0001,0.0032
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3300,0.0,0.0001
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3450,0.0002,0.0027
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3470,0.0,0.0
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3600,0.0004,0.0035
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3650,0.0,0.0001
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3850,0.0001,0.0024
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3870,-0.0003,0.0049
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4550,0.0001,0.0002
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4650,0.0003,0.0008
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4670,0.0002,0.0016
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4770,0.0,0.0
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4800 Series,0.0026,0.0291
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G35 Express,0.0,0.0
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G45/G43 Express,0.0,0.0001
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel Q45/Q43 Express,0.0,0.0
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 4 Series Express,0.0011,0.0052
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 965 Express,-0.0003,0.0099
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8100,0.0,0.0
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200,-0.0001,0.0005
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200M,0.0001,0.0018
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8300,0.0,0.001
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400,0.0002,0.0061
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400M,-0.0009,0.0087
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8500,-0.0005,0.0086
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600,-0.0005,0.0205
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600M,-0.0014,0.0146
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8700M,0.0,0.0016
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800,-0.0012,0.049
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800M,-0.0002,0.0015
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100,0.0,0.0002
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100M,0.0,0.0002
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200,0.0,0.0
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200M,0.0004,0.0021
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300,0.0001,0.0003
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300M,0.0003,0.0032
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400,0.0003,0.0037
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400M,0.0,0.0002
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500,0.0012,0.0081
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500M,-0.0001,0.0021
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600,0.0004,0.0135
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600M,0.0008,0.0092
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9650M,-0.0002,0.0009
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9700M,0.0001,0.0012
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800,0.0004,0.0213
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800M,0.0005,0.0027
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G100,0.0001,0.0004
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120,0.0001,0.0005
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120M,0.0,0.0
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130,0.0,0.0002
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130M,0.0,0.0
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 140,0.0001,0.0002
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260,0.0016,0.0098
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 275,0.0001,0.0001
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280,-0.0002,0.0058
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280M,0.0,0.0
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 285,0.0008,0.0026
+2009-04-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 295,0.0003,0.0016
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2400,-0.0002,0.0023
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2600,0.0002,0.0026
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3430,0.0001,0.0005
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3470,0.0002,0.0071
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850,0.0,0.0
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3870,0.0,0.0003
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4300,0.0,0.0
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4650,0.0001,0.0002
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4670,0.0,0.0
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4850,-0.0001,0.0
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4870,0.0,0.0
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 2100,0.0,0.0005
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 3100,0.0,0.0008
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2350,0.0,0.0003
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2400,-0.0002,0.0032
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2600,0.0004,0.0035
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2900,0.0003,0.001
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3200,-0.0001,0.0031
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3300,0.0,0.0001
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3450,0.0001,0.0028
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3470,0.0,0.0
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3600,0.0,0.0035
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3650,0.0,0.0001
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3850,0.0,0.0024
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3870,0.0004,0.0053
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4550,0.0,0.0002
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4650,0.0003,0.0011
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4670,0.0001,0.0017
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4770,0.0001,0.0001
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4800 Series,0.0002,0.0293
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G35 Express,0.0,0.0
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G45/G43 Express,0.0,0.0001
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel Q45/Q43 Express,0.0,0.0
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 4 Series Express,-0.0004,0.0048
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 965 Express,-0.0009,0.009
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8100,0.0,0.0
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200,0.0001,0.0006
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200M,0.0,0.0018
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8300,0.0,0.001
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400,0.0002,0.0063
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400M,0.0005,0.0092
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8500,0.0008,0.0094
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600,0.0015,0.022
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600M,0.0005,0.0151
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8700M,-0.0002,0.0014
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800,0.0,0.049
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800M,0.0001,0.0016
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100,0.0,0.0002
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100M,0.0,0.0002
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200M,0.0,0.0021
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300,0.0,0.0003
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300M,-0.0001,0.0031
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400,0.0002,0.0039
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400M,0.0,0.0002
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500,0.0005,0.0086
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500M,0.0,0.0021
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600,0.0006,0.0141
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600M,0.0008,0.01
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9650M,0.0002,0.0011
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9700M,0.0001,0.0013
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800,0.0014,0.0227
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800M,0.0001,0.0028
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G100,0.0,0.0004
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120,0.0001,0.0006
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130,0.0,0.0002
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130M,0.0001,0.0001
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 140,-0.0001,0.0001
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260,0.0007,0.0105
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 275,0.0003,0.0004
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280,0.0002,0.006
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280M,0.0,0.0
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 285,0.0007,0.0033
+2009-05-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 295,0.0003,0.0019
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2400,0.0005,0.0029
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2600,-0.0011,0.0014
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3430,0.0003,0.0008
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3470,-0.0007,0.0063
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4650,0.0001,0.0005
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4670,0.0001,0.0001
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4850,0.0,0.0001
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 2100,0.0,0.0004
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 3100,-0.0002,0.0006
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2350,0.0005,0.0008
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2400,0.0013,0.0044
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2600,-0.0001,0.0032
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2900,-0.0002,0.0007
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3200,-0.0003,0.0031
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3300,0.0,0.0001
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3450,0.0012,0.0038
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3470,0.0001,0.0001
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3600,0.0006,0.0041
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3650,0.0,0.0001
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3850,0.0004,0.0026
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3870,-0.0003,0.0044
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4550,0.0,0.0001
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4650,-0.0001,0.001
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4670,-0.0003,0.0013
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4770,0.0,0.0001
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4800 Series,0.0031,0.0305
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 4 Series Express,-0.0018,0.0038
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 965 Express,-0.0036,0.0061
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8100,0.0001,0.0001
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200,0.0,0.0005
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200M,-0.0006,0.0013
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8300,-0.0006,0.0004
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400,0.001,0.0068
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400M,0.0,0.0088
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8500,-0.0002,0.0081
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600,0.0014,0.0212
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600M,-0.0003,0.0141
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8700M,0.0001,0.0014
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800,0.0006,0.0445
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800M,-0.0011,0.0004
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100,-0.0001,0.0001
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100M,0.0001,0.0003
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200M,-0.0001,0.002
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300,-0.0002,0.0002
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300M,0.0003,0.0035
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400,0.0014,0.0051
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400M,-0.0002,0.0001
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500,0.0033,0.0113
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500M,-0.0002,0.0019
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600,0.0025,0.0154
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600M,0.002,0.0116
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9650M,0.0003,0.0013
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9700M,0.0003,0.0015
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800,0.0014,0.0223
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800M,-0.0013,0.0015
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G100,0.0001,0.0005
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120,0.0005,0.0012
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130,0.0002,0.0005
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130M,0.0,0.0001
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 140,0.0001,0.0002
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260,0.0014,0.0112
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 275,0.0002,0.0007
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280,0.0004,0.0057
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 285,-0.001,0.0022
+2009-06-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 295,-0.0001,0.0017
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2400,-0.0001,0.0028
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2600,0.0008,0.0022
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3430,-0.0003,0.0005
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3470,0.0006,0.0069
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850,0.0,0.0
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3870,0.0003,0.0003
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4300,0.0001,0.0001
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4650,0.0001,0.0006
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4670,0.0,0.0001
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4850,0.0,0.0001
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4870,0.0002,0.0002
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 2100,0.0,0.0004
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 3100,-0.0001,0.0005
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2350,-0.0002,0.0006
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2400,-0.0007,0.0037
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2600,-0.0002,0.003
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2900,0.0001,0.0008
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3200,-0.0001,0.003
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3300,-0.0001,0.0
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3450,-0.0009,0.0029
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3470,-0.0001,0.0
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3600,0.0005,0.0046
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3650,0.0,0.0001
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3850,-0.0007,0.0019
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3870,-0.0004,0.004
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4550,0.0001,0.0002
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4650,0.0005,0.0015
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4670,0.0011,0.0024
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4770,0.0,0.0001
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4800 Series,0.001,0.0315
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G35 Express,0.0,0.0
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G41 Express,0.0,0.0
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G45/G43 Express,0.0003,0.0003
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel Q45/Q43 Express,0.0,0.0
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 4 Series Express,0.0016,0.0054
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 965 Express,-0.0001,0.006
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8100,0.0,0.0001
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200,0.0,0.0005
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200M,0.0003,0.0016
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8300,0.0005,0.0009
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400,-0.001,0.0058
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400M,-0.002,0.0068
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8500,-0.0006,0.0075
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600,-0.0032,0.018
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600M,-0.0011,0.013
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8700M,0.0002,0.0016
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800,-0.0016,0.0429
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800M,0.0008,0.0012
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100,0.0002,0.0003
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100M,0.0,0.0003
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200,0.0,0.0
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200M,0.0008,0.0028
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300,0.0001,0.0003
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300M,0.0001,0.0036
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400,-0.0005,0.0046
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400M,0.0002,0.0003
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500,-0.0023,0.009
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500M,0.0005,0.0024
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600,-0.001,0.0144
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600M,-0.0015,0.0101
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9650M,-0.0001,0.0012
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9700M,-0.0005,0.001
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800,0.0003,0.0226
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800M,0.001,0.0025
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G100,0.0007,0.0012
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120,0.0008,0.002
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120M,0.0,0.0001
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130,0.0,0.0005
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130M,0.0002,0.0003
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 140,0.0001,0.0003
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260,-0.0003,0.0109
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 275,0.0007,0.0014
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280,-0.0005,0.0052
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280M,0.0001,0.0001
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 285,0.0013,0.0035
+2009-07-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 295,0.0004,0.0021
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility FireGL V5725,0.0001,0.0005
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2400,-0.0003,0.0022
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2600,0.0,0.0027
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3430,0.0,0.0006
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3470,0.0007,0.0078
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3650,0.0007,0.0048
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850 X2,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3870,0.0,0.0004
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4300,0.0001,0.0003
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4570,0.0013,0.0026
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4650,0.0009,0.0021
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4670,0.0003,0.0004
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4850,0.0,0.0002
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4870,-0.0001,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 2100,0.0001,0.0004
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 3100,0.0,0.0012
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2350,0.0,0.0004
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2400,-0.0002,0.003
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2600,0.0002,0.0036
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2900,0.0001,0.0009
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3200,0.0003,0.005
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3300,0.0,0.0002
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3450,-0.0003,0.0027
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3470,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3600,-0.0003,0.0036
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3650,0.0,0.0001
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3850,-0.0001,0.0029
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3870,-0.0003,0.0057
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4200,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4350,0.0003,0.0015
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4550,0.0002,0.0005
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4600 Series,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4650,0.0005,0.0022
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4670,0.0,0.0027
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4700 Series,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4770,0.0001,0.0006
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4800 Series,0.0019,0.0462
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G35 Express,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G41 Express,0.0001,0.0001
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G45/G43 Express,0.0001,0.0004
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel Q45/Q43 Express,0.0001,0.0001
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 4 Series Express,0.0015,0.0096
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 965 Express,0.0,0.0098
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8100,-0.0001,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200,0.0001,0.0009
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200M,0.0003,0.0026
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8300,0.0,0.0009
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400,-0.0001,0.0056
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400M,0.0003,0.0099
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8500,-0.0002,0.0077
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600,0.0001,0.0206
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600M,-0.0001,0.0148
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8700M,-0.0002,0.0014
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800,-0.0033,0.0511
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800M,0.0,0.0016
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100,0.0,0.0004
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100M,-0.0001,0.0003
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200,0.0001,0.0001
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200M,0.0001,0.0027
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300,0.0,0.0004
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300M,-0.0002,0.0038
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400,0.0005,0.0052
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400M,0.0,0.0009
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500,0.0011,0.0099
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500M,-0.0007,0.0019
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600,0.0003,0.0172
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600M,0.0016,0.0132
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9650M,0.0001,0.0013
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9700M,0.0,0.0015
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800,-0.0002,0.0285
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800M,0.0003,0.0041
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G 105M,0.0002,0.0008
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G 110M,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G100,0.0,0.0009
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G102M,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G103M,0.0,0.0001
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G105M,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G210,0.0002,0.0002
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120,0.0004,0.0018
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120M,0.0001,0.0002
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130,0.0001,0.0005
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130M,0.0005,0.0011
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 140,0.0,0.0002
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 220,0.0001,0.0002
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 220M,0.0001,0.0001
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 230,0.0002,0.0004
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 240M,0.0001,0.0001
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 150,0.0011,0.0036
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 160M,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 240,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260,0.0017,0.0173
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260M,0.0003,0.0008
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 275,0.001,0.0038
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280,0.0005,0.0074
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280M,0.0,0.0002
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 285,0.0005,0.0061
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 295,0.0004,0.0038
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA ION,0.0001,0.0001
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1600M,0.0,0.0001
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1700,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1700M,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1800,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 2700M,0.0,0.0001
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3600M,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 370,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3700,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3700M,0.0,0.0001
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 370M,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3800,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 4600,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 4800,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 5600,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 570,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 570M,0.0,0.0003
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 580,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 5800,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 130M,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 135M,0.0,0.0001
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 140M,0.0,0.0004
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 150M,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 160M,0.0001,0.0002
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 290,0.0,0.0
+2009-08-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 320M,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility FireGL V5725,0.0001,0.0006
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2400,0.0001,0.0023
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2600,-0.0003,0.0024
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3430,-0.0002,0.0004
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3470,-0.0001,0.0077
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3650,-0.0001,0.0047
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850 X2,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3870,0.0002,0.0006
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4300,0.0001,0.0004
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4570,0.0014,0.004
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4650,0.0007,0.0028
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4670,0.0002,0.0006
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4850,0.0,0.0002
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4870,0.0001,0.0001
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 2100,0.0001,0.0005
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 3100,-0.0001,0.0011
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2350,-0.0002,0.0002
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2400,-0.0001,0.0029
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2600,-0.0005,0.0031
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2900,-0.0001,0.0008
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3200,0.0004,0.0054
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3300,0.0001,0.0003
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3450,0.0001,0.0028
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3470,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3600,0.0003,0.0039
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3650,0.0,0.0001
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3850,0.0001,0.003
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3870,0.0001,0.0058
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4200,0.0001,0.0001
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4350,0.0005,0.002
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4550,0.0,0.0005
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4600 Series,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4650,0.0008,0.003
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4670,0.0004,0.0031
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4700 Series,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4770,0.0003,0.0009
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4800 Series,0.0033,0.0495
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 5800 Series,0.0001,0.0001
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G35 Express,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G41 Express,-0.0001,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G45/G43 Express,0.0,0.0004
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel Q45/Q43 Express,-0.0001,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 4 Series Express,0.0011,0.0107
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 965 Express,-0.0002,0.0096
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8100,0.0001,0.0001
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200,0.0,0.0009
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200M,0.0003,0.0029
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8300,0.0,0.0009
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400,-0.0002,0.0054
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400M,-0.0006,0.0093
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8500,0.0,0.0077
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600,-0.0007,0.0199
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600M,-0.0011,0.0137
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8700M,0.0001,0.0015
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800,0.0,0.0511
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800M,0.0002,0.0018
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100,0.0002,0.0006
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100M,0.0001,0.0004
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200,0.0,0.0001
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200M,-0.0001,0.0026
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300,0.0,0.0004
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300M,0.0004,0.0042
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400,0.0005,0.0057
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400M,0.0003,0.0012
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500,0.0003,0.0102
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500M,0.0004,0.0023
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600,0.0008,0.018
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600M,-0.0007,0.0125
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9650M,0.0001,0.0014
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9700M,-0.0001,0.0014
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800,0.0006,0.0291
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800M,-0.0002,0.0039
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G 105M,0.0003,0.0011
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G 110M,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G100,0.0003,0.0012
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G102M,0.0001,0.0001
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G103M,0.0001,0.0002
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G105M,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G210,0.0002,0.0004
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G210M,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120,-0.0001,0.0017
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120M,0.0003,0.0005
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130,0.0001,0.0006
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130M,0.0003,0.0014
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 140,0.0,0.0002
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 220,0.0004,0.0006
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 220M,0.0,0.0001
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 230,0.0002,0.0006
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 240M,0.0001,0.0002
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 150,0.0006,0.0042
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 160M,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 240,0.0001,0.0001
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260,0.0017,0.019
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260M,0.0005,0.0013
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 275,0.0013,0.0051
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280,-0.0006,0.0068
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280M,0.0,0.0002
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 285,0.0004,0.0065
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 295,0.0007,0.0045
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA ION,-0.0001,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1600M,0.0,0.0001
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1700,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1800,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 2700M,0.0,0.0001
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3600M,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 360M,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 370,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3700,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3700M,-0.0001,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 370M,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3800,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 4600,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 4800,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 5600,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 570M,0.0001,0.0004
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 580,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 5800,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 130M,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 135M,0.0,0.0001
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 140M,0.0,0.0004
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 150M,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 160M,0.0,0.0002
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 290,0.0,0.0
+2009-09-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 320M,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility FireGL V5725,-0.0001,0.0005
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2400,0.0,0.0023
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2600,-0.0001,0.0023
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3430,0.0001,0.0005
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3470,0.0001,0.0078
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3650,-0.0003,0.0044
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3870,-0.0001,0.0005
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4200,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4300,0.0002,0.0006
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4570,0.0004,0.0044
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4650,0.0007,0.0035
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4670,0.0,0.0006
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4830,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4850,0.0,0.0002
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4870,0.0,0.0001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 2100,0.0,0.0005
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 3100,0.0002,0.0013
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2350,0.0001,0.0003
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2400,0.0,0.0029
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2600,0.0005,0.0036
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2900,-0.0002,0.0006
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3200,0.0003,0.0057
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3300,-0.0001,0.0002
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3450,0.0002,0.003
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3470,0.0001,0.0001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3600,-0.0004,0.0035
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3650,0.0001,0.0002
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3850,0.0001,0.0031
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3870,-0.0002,0.0056
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4200,0.0001,0.0002
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4350,0.0001,0.0021
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4550,0.0,0.0005
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4600 Series,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4650,0.0,0.003
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4670,0.0005,0.0036
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4700 Series,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4770,0.0004,0.0013
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4800 Series,0.0046,0.0541
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 5700 Series,0.0003,0.0003
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 5800 Series,0.002,0.0021
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G35 Express,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G41 Express,0.0001,0.0001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G45/G43 Express,0.0,0.0004
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel Q45/Q43 Express,0.0001,0.0001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 4 Series Express,0.0006,0.0113
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 965 Express,-0.0005,0.0091
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 210,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8100,-0.0001,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200,0.0001,0.001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200M,-0.0003,0.0026
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8300,-0.0001,0.0008
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400,-0.0005,0.0049
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400M,-0.0003,0.009
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8500,-0.0001,0.0076
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600,0.0003,0.0202
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600M,0.0,0.0137
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8700M,-0.0001,0.0014
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800,0.0024,0.0535
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800M,-0.0001,0.0017
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100,-0.0001,0.0005
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100M,-0.0001,0.0003
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200,-0.0001,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200M,0.0,0.0026
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300,-0.0001,0.0003
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300M,-0.0002,0.004
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400,0.0001,0.0058
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400M,0.0002,0.0014
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500,0.0006,0.0108
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500M,0.0,0.0023
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600,0.0006,0.0186
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600M,-0.0004,0.0121
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9650M,0.0,0.0014
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9700M,-0.0001,0.0013
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800,0.0025,0.0316
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800M,-0.0001,0.0038
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G 105M,0.0,0.0011
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G 110M,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G100,-0.0001,0.0011
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G102M,0.0001,0.0002
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G103M,0.0002,0.0004
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G105M,0.0001,0.0001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G210,0.0003,0.0007
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G210M,0.0001,0.0001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120,0.0,0.0017
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120M,0.0,0.0005
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130,0.0001,0.0007
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130M,0.0001,0.0015
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 140,0.0,0.0002
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 220,0.0005,0.0011
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 220M,0.0001,0.0002
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 230,0.0001,0.0007
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 230M,0.0001,0.0001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 240M,0.0003,0.0005
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 150,0.001,0.0052
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 160M,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 240,0.0,0.0001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 250M,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260,0.0023,0.0213
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260M,0.0004,0.0017
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 275,0.0015,0.0066
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280,0.0005,0.0073
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280M,0.0001,0.0003
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 285,0.0013,0.0078
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 295,0.0006,0.0051
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA ION,0.0001,0.0001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1600M,0.0,0.0001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1700,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1800,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 2700M,0.0,0.0001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3600M,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 360M,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 370,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3700,0.0001,0.0001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3700M,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 370M,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 380,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3800,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 4600,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 4800,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 5600,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 570,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 570M,-0.0001,0.0003
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 5800,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 130M,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 135M,0.0,0.0001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 140M,0.0,0.0004
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 150M,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 160M,0.0,0.0002
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 290,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 295,0.0,0.0
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 320M,0.0001,0.0001
+2009-10-01,DirectX 10 Systems (Vista with DirectX 10 GPU),S3 Graphics ProSavageDDR,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility FireGL V5725,-0.0001,0.0004
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon 4100,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2400,0.0,0.0023
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2600,-0.0001,0.0022
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3430,0.0001,0.0006
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3470,-0.0003,0.0075
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3650,-0.0001,0.0043
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850,0.0001,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850 X2,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3870,0.0,0.0005
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4200,0.0003,0.0003
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4300,0.0002,0.0008
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4570,0.0009,0.0053
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4650,0.0007,0.0042
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4670,0.0001,0.0007
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4830,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4850,0.0,0.0002
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4870,0.0,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 2100,-0.0001,0.0004
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 3100,-0.0001,0.0012
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2350,0.0,0.0003
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2400,0.0,0.0029
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2600,0.0,0.0036
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2900,0.0002,0.0008
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3200,0.0,0.0057
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3300,0.0001,0.0003
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3450,-0.0004,0.0026
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3470,-0.0001,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3600,0.0002,0.0037
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3650,-0.0001,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3850,0.0004,0.0035
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3870,0.0005,0.0061
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4200,0.0,0.0002
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4350,0.0004,0.0025
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4550,0.0001,0.0006
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4600 Series,0.0001,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4650,0.0008,0.0038
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4670,0.0004,0.004
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4700 Series,0.0001,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4770,0.0001,0.0014
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4800 Series,0.0035,0.0576
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 5700 Series,0.0013,0.0016
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 5800 Series,0.0017,0.0038
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 5900 Series,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G35 Express,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G41 Express,0.0001,0.0002
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G45/G43 Express,0.0001,0.0005
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel Q45/Q43 Express,0.0,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 4 Series Express,0.0001,0.0114
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 965 Express,-0.0007,0.0084
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 210,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8100,0.0001,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200,0.0,0.001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200M,-0.0001,0.0025
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8300,-0.0001,0.0007
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400,0.0003,0.0052
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400M,-0.0009,0.0081
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8500,0.0001,0.0077
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600,0.0013,0.0215
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600M,-0.0007,0.013
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8700M,0.0,0.0014
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800,-0.0006,0.0529
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800M,-0.0002,0.0015
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100,0.0002,0.0007
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100M,0.0,0.0003
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200M,-0.0002,0.0024
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300,0.0002,0.0005
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300M,0.0,0.004
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400,0.0,0.0058
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400M,0.0001,0.0015
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500,0.0004,0.0112
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500M,-0.0001,0.0022
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600,0.0032,0.0218
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600M,0.0007,0.0128
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9650M,-0.0002,0.0012
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9700M,0.0,0.0013
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800,0.0018,0.0334
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800M,0.0,0.0038
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G 105M,0.0003,0.0014
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G 110M,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G100,-0.0001,0.001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G102M,0.0001,0.0003
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G103M,0.0,0.0004
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G105M,0.0,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G210,0.0001,0.0008
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G210M,0.0001,0.0002
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120,0.0001,0.0018
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120M,0.0001,0.0006
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130,0.0,0.0007
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130M,0.0002,0.0017
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 140,-0.0001,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 220,0.0007,0.0018
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 220M,0.0,0.0002
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 230,0.0002,0.0009
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 230M,0.0003,0.0004
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 240,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 240M,0.0003,0.0008
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 150,0.0018,0.007
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 160M,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 240,0.0002,0.0003
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 250M,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260,0.0023,0.0236
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260M,0.0003,0.002
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 275,0.0008,0.0074
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280,-0.0001,0.0072
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280M,0.0,0.0003
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 285,-0.0002,0.0076
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 295,0.0003,0.0054
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA ION,0.0,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1600M,0.0,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1700,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1700M,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1800,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 2700M,0.0,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3600M,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 360M,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 370,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3700,-0.0001,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3700M,0.0001,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3800,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 4600,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 4800,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 5600,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 570,0.0001,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 570M,0.0,0.0003
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 580,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 5800,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 135M,0.0,0.0001
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 140M,0.0,0.0004
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 150M,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 160M,0.0,0.0002
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 290,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 295,0.0,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 320M,-0.0001,0.0
+2009-11-01,DirectX 10 Systems (Vista with DirectX 10 GPU),S3 Graphics ProSavageDDR,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility FireGL V5725,0.0002,0.0006
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2400,-0.0003,0.002
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2600,-0.0001,0.0021
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3430,0.0,0.0006
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3470,-0.0002,0.0073
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3650,0.0002,0.0045
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850,0.0,0.0001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3870,-0.0001,0.0004
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4200,0.0,0.0003
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4300,-0.0001,0.0007
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4570,0.0002,0.0055
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4650,0.0002,0.0044
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4670,0.0001,0.0008
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4850,0.0001,0.0003
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4870,0.0,0.0001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 2100,-0.0001,0.0003
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 3100,0.0,0.0012
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2350,-0.0001,0.0002
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2400,-0.0005,0.0024
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2600,-0.0004,0.0032
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2900,0.0,0.0008
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3200,-0.0006,0.0051
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3300,-0.0001,0.0002
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3450,-0.0003,0.0023
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3470,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3600,0.0005,0.0042
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3650,0.0,0.0001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3850,-0.0001,0.0034
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3870,0.0006,0.0067
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4200,0.0001,0.0003
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4350,0.0005,0.003
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4550,0.0001,0.0007
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4600 Series,-0.0001,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4650,0.0009,0.0047
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4670,0.0003,0.0043
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4700 Series,0.0,0.0001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4770,0.0,0.0014
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4800 Series,0.0102,0.0678
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 5700 Series,0.0014,0.003
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 5800 Series,0.0014,0.0052
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 5900 Series,0.0002,0.0002
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G35 Express,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G41 Express,0.0,0.0002
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G45/G43 Express,-0.0001,0.0004
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel Q45/Q43 Express,-0.0001,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 4 Series Express,-0.0022,0.0092
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 965 Express,-0.0022,0.0062
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 210,0.0001,0.0001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8100,-0.0001,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200,-0.0001,0.0009
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200M,-0.0003,0.0022
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8300,-0.0001,0.0006
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400,0.0,0.0052
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400M,-0.0006,0.0075
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8500,-0.0005,0.0072
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600,0.0008,0.0223
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600M,-0.0006,0.0124
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8700M,0.0001,0.0015
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800,0.007,0.0599
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800M,0.0001,0.0016
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100,0.0001,0.0008
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100M,0.0001,0.0004
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200,0.0001,0.0001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200M,-0.0002,0.0022
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300,-0.0002,0.0003
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300M,-0.0004,0.0036
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400,0.0009,0.0067
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400M,-0.0002,0.0013
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500,0.0014,0.0126
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500M,-0.0001,0.0021
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600,0.0001,0.0219
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600M,-0.0002,0.0126
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9650M,-0.0001,0.0011
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9700M,-0.0001,0.0012
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800,0.0051,0.0385
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800M,0.0001,0.0039
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G 105M,-0.0003,0.0011
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G 110M,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G100,0.0003,0.0013
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G102M,-0.0001,0.0002
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G103M,-0.0001,0.0003
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G105M,0.0001,0.0002
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G210,0.0002,0.001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G210M,0.0001,0.0003
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120,0.0007,0.0025
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120M,0.0002,0.0008
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130,0.0001,0.0008
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130M,-0.0001,0.0016
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 140,0.0002,0.0003
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 220,0.0007,0.0025
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 220M,0.0001,0.0003
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 230,0.0002,0.0011
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 230M,0.0,0.0004
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 240,0.0002,0.0002
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 240M,0.0001,0.0009
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 150,0.0023,0.0093
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 160M,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 240,0.0001,0.0004
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 250M,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260,0.0046,0.0282
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260M,0.0005,0.0025
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 275,0.0021,0.0095
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280,0.0015,0.0087
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280M,0.0001,0.0004
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 285,0.0014,0.009
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 295,0.0013,0.0067
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA ION,0.0,0.0001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1600M,0.0,0.0001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1700,0.0001,0.0001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1700M,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 2700M,0.0,0.0001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3600M,0.0001,0.0001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3700,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3700M,0.0,0.0001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 380,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3800,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 4800,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 570,-0.0001,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 570M,0.0,0.0003
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 580,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 130M,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 135M,0.0,0.0001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 140M,-0.0001,0.0003
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 150M,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 160M,-0.0001,0.0001
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 290,0.0,0.0
+2009-12-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 320M,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility FireGL V5725,0.0001,0.0006
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon 4100,0.0001,0.0002
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2400,-0.0001,0.0021
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 2600,0.0,0.0023
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3430,0.0,0.0006
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3470,-0.0007,0.007
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3650,-0.0002,0.0043
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850,-0.0001,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3850 X2,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 3870,-0.0001,0.0004
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4200,0.0005,0.0012
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4300,0.0003,0.0015
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4550,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4570,0.0013,0.0079
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4650,0.0007,0.0061
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4670,0.0003,0.0012
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4830,0.0001,0.0001
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4850,0.0,0.0004
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 4870,0.0,0.0001
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 5470,0.0001,0.0001
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 5650,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 5730,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Mobility Radeon HD 5800 Series,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 2100,0.0001,0.0004
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon 3100,-0.0001,0.0013
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2350,0.0,0.0002
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2400,0.0001,0.0026
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2600,-0.0003,0.0032
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 2900,0.0001,0.0008
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3200,0.0003,0.0066
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3300,0.0,0.0003
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3450,0.0001,0.0027
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3470,0.0001,0.0001
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3600 Series,-0.0003,0.0035
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3650,0.0,0.0002
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3850,0.0,0.0033
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 3870,0.0,0.0058
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4200,0.0001,0.0006
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4350,0.0003,0.0034
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4550,0.0,0.0007
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4600 Series,0.0001,0.0002
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4650,0.0008,0.0051
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4670,0.0007,0.005
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4700 Series,0.0001,0.0002
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4770,0.0001,0.0016
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 4800 Series,0.0012,0.059
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 5450,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 5600 Series,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 5700 Series,0.0035,0.0078
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 5800 Series,0.0032,0.0096
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),ATI Radeon HD 5900 Series,0.0002,0.0005
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G35 Express,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G41 Express,0.0001,0.0003
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel G45/G43 Express,0.0001,0.0007
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Intel Q45/Q43 Express,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 4 Series Express,0.0011,0.0147
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),Mobile Intel 965 Express,-0.0009,0.0077
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 210,0.0001,0.0002
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 310,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 310M,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8100,0.0,0.0001
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200,0.0001,0.0012
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8200M,0.0001,0.0026
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8300,-0.0001,0.0006
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400,-0.0005,0.0049
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8400M,-0.0006,0.0077
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8500,0.0001,0.0073
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600,-0.0005,0.0205
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8600M,-0.0007,0.0121
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8700M,0.0001,0.0015
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800,-0.0013,0.0507
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 8800M,-0.0002,0.0013
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100,0.0,0.0007
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9100M,-0.0002,0.0003
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200,0.0,0.0001
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9200M,-0.0003,0.0021
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300,0.0,0.0005
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9300M,0.0,0.0036
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400,0.0,0.006
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9400M,-0.0001,0.0016
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500,0.0007,0.0123
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9500M,0.0001,0.002
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600,0.0006,0.0216
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9600M,-0.0001,0.0129
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9650M,0.0,0.0012
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9700M,0.0002,0.0014
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800,0.0015,0.0356
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce 9800M,-0.0002,0.0034
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G 105M,0.0003,0.0018
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G 110M,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G100,-0.0001,0.001
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G102M,0.0001,0.0005
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G103M,0.0001,0.0006
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G105M,0.0002,0.0004
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G210,0.0004,0.0015
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce G210M,0.0001,0.0007
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120,0.0001,0.002
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 120M,-0.0002,0.0005
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130,-0.0002,0.0005
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 130M,0.0001,0.0017
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 140,0.0,0.0002
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 220,0.001,0.0039
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 220M,0.0001,0.0005
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 230,0.0003,0.0015
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 230M,0.0003,0.0011
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 240,0.0003,0.0007
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 240M,0.0009,0.0024
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 320,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 330M,0.0001,0.0001
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GT 335M,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 150,0.0018,0.0104
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 160M,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 240,0.0003,0.0007
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 250M,0.0,0.0002
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTS 360M,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260,0.0007,0.0252
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 260M,0.0003,0.0031
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 275,0.0003,0.0084
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280,-0.0001,0.0069
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 280M,0.0,0.0004
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 285,0.0004,0.0081
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA GeForce GTX 295,-0.0003,0.0055
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA ION,0.0001,0.0004
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1600M,0.0,0.0001
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1700,0.0001,0.0001
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1700M,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 1800,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 2700M,0.0,0.0001
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3600M,-0.0001,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 360M,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 370,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3700,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3700M,0.0,0.0001
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 370M,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 380,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 3800,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 4600,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 4800,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 5600,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 570,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 570M,-0.0001,0.0003
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 580,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro FX 5800,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 130M,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 135M,0.0,0.0001
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 140M,0.0,0.0004
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 150M,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 160M,0.0,0.0002
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 290,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 295,0.0,0.0
+2010-01-01,DirectX 10 Systems (Vista with DirectX 10 GPU),NVIDIA Quadro NVS 320M,-0.0001,0.0
